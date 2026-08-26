@@ -1,10 +1,16 @@
-x=input("do you have any experience")
+"""
+filename: interview.py
+Author:<Garcia, Alvaro
+created: <08/26/2026
+Instructor: MR.Burgess
+"""
+x=input("do you have any experience: ")
 print(x)
-input("tell me about yourself")
+x=input("tell me about yourself: ")
 print(x)
-input("what is your biggest weakness")
+x=input("what is your biggest weakness: ")
 print(x)
-input("where do you see yourself in five years")
+x=input("where do you see yourself in five years: ")
 print(x)
-input("why do you want this job")
+x=input("why do you want this job: ")
 print(x)
