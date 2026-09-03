@@ -1,3 +1,10 @@
+"""
+Filename: madLibs.py
+Author: <Garcia, Alvaro>
+Created: <09/3/2026
+Instructor: Mr. Burgess
+"""
+
 Adjective1=input("enter a Adjective")
 Noun1=input("enter a Noun")
 Animal1=input("enter a Animal")
@@ -18,23 +25,26 @@ adverb4=input("enter a Adverb")
 noun3=input("enter a Noun")
 noun4=input("enter a Noun")
 adverb5=input("enter a Adverb")
+
 print("today I went to the",Adjective1,"")
 print("zoo with my favorite",Noun1,"")
 print("First,we saw a giant",Animal1,"")
 print("that loved to",Verb1,"")
 print("in the mud. It was so",Adjective2,"")
 print("Next, we saw walked over to the",Adjective3,"")
-print("cage where",Noun2,"")
-print("")
-print("")
-print("")
-print("")
-print("")
-print("")
-print("")
-print("")
-print("")
-print("")
-print("")
-print("")
-print("")
+print("cage where",PluralNoun1,"")
+print("where eating",Food1,"")
+print("One cheeky monkey decided to",verb3,"")
+print("a",Noun2,"")
+print("right at my",BodyPart1,"")
+print("for lunch, we ate a very",Adjective4,"")
+print("",Food2,"")
+print("and drank a cold glass of",Liquid1,"")
+print("suddenly, a loud",Sound1,"")
+print("echoed through the park! Everyone started to",Verb2,"")
+print("",adverb5,"")
+print("My",noun4,"")
+print("grabbed my",noun4,"")
+print("and we ran",adverb5,"")
+print("to the exit. It was the best trip ever")
+
