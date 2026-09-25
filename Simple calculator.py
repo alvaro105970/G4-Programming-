@@ -2,7 +2,7 @@
 Filename: simple_calculator.py
 Author: <Garcia, Alvaro>
 Created: <09/18/2026>
-Instructor: Burgess
+Instructor: Mr.Burgess
 """
 
 print("Welcome to the Simple Calculator")
