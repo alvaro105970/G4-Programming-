@@ -1,4 +1,12 @@
-#hello how are you i am under the water
-
-print("Welcome to the temperature converter & threshold alert")
-input("Press Enter to continue...")
+print("enter current test score (0-100)")
+x=input("add your current test score (0-100)")
+if x==(x<90 and x>100)
+    print("grade A")
+elif x==(x<80 or x>89)
+    print("grade B")
+elif(x<70 or x>79)
+    print("grade C")
+elif(x<60 or x>69
+        print("grade D")
+elif(x>60 or x<50)
+print("grade f")
